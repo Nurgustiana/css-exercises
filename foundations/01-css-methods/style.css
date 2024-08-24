@@ -1,7 +1,12 @@
-.div {
+div {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
-    font-style: bold;
+    font-weight: bold;
+}
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
 }
